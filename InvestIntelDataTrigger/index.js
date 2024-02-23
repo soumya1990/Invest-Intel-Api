@@ -60,31 +60,51 @@ async function makeTwoCalls() {
   return resp;
 }
 
-// Call the function to make the two requests
-
 module.exports = async function GetLatestStockData(context, req) {
   try {
     const csvContent = await makeTwoCalls();
     var jsonData = convertCsvToJson(csvContent);
-    jsonData = JSON.stringify(jsonData).replace(/\\n/g, "");
-
+    //jsonData = JSON.stringify(jsonData).replace(/\\n/g, "");
+    const formattedResponse = JSON.stringify(
+      jsonData.map(removeSpacesFromKeys)
+    );
     context.res = {
       status: 200,
-      body: jsonData,
+      body: formattedResponse,
       headers: {
         "Content-Type": "application/json",
       },
     };
   } catch (error) {
+    console.log(error);
     context.res = {
       status: 500,
       body: error.message,
     };
-}
+  }
 };
 
 // Helper function to convert CSV to JSON
 function convertCsvToJson(csvContent) {
   const parsedData = Papa.parse(csvContent, { header: true });
   return parsedData.data;
+}
+
+function removeSpacesFromKeys(obj) {
+  if (typeof obj !== "object" || obj === null) {
+    return obj;
+  }
+
+  const newObj = Array.isArray(obj) ? [] : {};
+
+  for (const key in obj) {
+    const newKey = key.replace(/\s+/g, ""); // Remove all whitespace characters
+
+    // Handle potential issues with empty key names
+    if (newKey) {
+      newObj[newKey] = removeSpacesFromKeys(obj[key]);
+    }
+  }
+
+  return newObj;
 }
