@@ -1,0 +1,942 @@
+[
+    {
+      "UNDERLYING": "NIFTYFINANCIALSERVICES",
+      "SYMBOL": "FINNIFTY",
+      "LOTSIZE": "40"
+    },
+    {
+      "UNDERLYING": "NIFTYBANK",
+      "SYMBOL": "BANKNIFTY",
+      "LOTSIZE": "15"
+    },
+    {
+      "UNDERLYING": "NIFTY50",
+      "SYMBOL": "NIFTY 50",
+      "LOTSIZE": "50"
+    },
+    {
+      "UNDERLYING": "NIFTYMIDSELECT",
+      "SYMBOL": "MIDCPNIFTY",
+      "LOTSIZE": "0"
+    },
+    {
+      "UNDERLYING": "DerivativesonIndividualSecurities",
+      "SYMBOL": "Symbol",
+      "LOTSIZE": "FEB-24"
+    },
+    {
+      "UNDERLYING": "AARTIINDUSTRIESLTD",
+      "SYMBOL": "AARTIIND",
+      "LOTSIZE": "1000"
+    },
+    {
+      "UNDERLYING": "APOLLOHOSPITALSENTER.L",
+      "SYMBOL": "APOLLOHOSP",
+      "LOTSIZE": "125"
+    },
+    {
+      "UNDERLYING": "ASIANPAINTSLIMITED",
+      "SYMBOL": "ASIANPAINT",
+      "LOTSIZE": "200"
+    },
+    {
+      "UNDERLYING": "AMBUJACEMENTSLTD",
+      "SYMBOL": "AMBUJACEM",
+      "LOTSIZE": "1800"
+    },
+    {
+      "UNDERLYING": "ASTRALLIMITED",
+      "SYMBOL": "ASTRAL",
+      "LOTSIZE": "367"
+    },
+    {
+      "UNDERLYING": "BHARATELECTRONICSLTD",
+      "SYMBOL": "BEL",
+      "LOTSIZE": "5700"
+    },
+    {
+      "UNDERLYING": "CUMMINSINDIALTD",
+      "SYMBOL": "CUMMINSIND",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "DR.REDDYSLABORATORIES",
+      "SYMBOL": "DRREDDY",
+      "LOTSIZE": "125"
+    },
+    {
+      "UNDERLYING": "GODREJPROPERTIESLTD",
+      "SYMBOL": "GODREJPROP",
+      "LOTSIZE": "475"
+    },
+    {
+      "UNDERLYING": "VODAFONEIDEALIMITED",
+      "SYMBOL": "IDEA",
+      "LOTSIZE": "80000"
+    },
+    {
+      "UNDERLYING": "THEINDIANHOTELSCO.LTD",
+      "SYMBOL": "INDHOTEL",
+      "LOTSIZE": "2000"
+    },
+    {
+      "UNDERLYING": "INDUSTOWERSLIMITED",
+      "SYMBOL": "INDUSTOWER",
+      "LOTSIZE": "3400"
+    },
+    {
+      "UNDERLYING": "RELIANCEINDUSTRIESLTD",
+      "SYMBOL": "RELIANCE",
+      "LOTSIZE": "250"
+    },
+    {
+      "UNDERLYING": "ZYDUSLIFESCIENCESLTD",
+      "SYMBOL": "ZYDUSLIFE",
+      "LOTSIZE": "900"
+    },
+    {
+      "UNDERLYING": "ACCLIMITED",
+      "SYMBOL": "ACC",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "ADITYABIRLACAPITALLTD.",
+      "SYMBOL": "ABCAPITAL",
+      "LOTSIZE": "5400"
+    },
+    {
+      "UNDERLYING": "ALKEMLABORATORIESLTD.",
+      "SYMBOL": "ALKEM",
+      "LOTSIZE": "200"
+    },
+    {
+      "UNDERLYING": "APOLLOTYRESLTD",
+      "SYMBOL": "APOLLOTYRE",
+      "LOTSIZE": "1700"
+    },
+    {
+      "UNDERLYING": "ASHOKLEYLANDLTD",
+      "SYMBOL": "ASHOKLEY",
+      "LOTSIZE": "5000"
+    },
+    {
+      "UNDERLYING": "ATULLTD",
+      "SYMBOL": "ATUL",
+      "LOTSIZE": "75"
+    },
+    {
+      "UNDERLYING": "BAJAJAUTOLIMITED",
+      "SYMBOL": "BAJAJ-AUTO",
+      "LOTSIZE": "125"
+    },
+    {
+      "UNDERLYING": "AXISBANKLIMITED",
+      "SYMBOL": "AXISBANK",
+      "LOTSIZE": "625"
+    },
+    {
+      "UNDERLYING": "BAJAJFINSERVLTD.",
+      "SYMBOL": "BAJAJFINSV",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "BAJAJFINANCELIMITED",
+      "SYMBOL": "BAJFINANCE",
+      "LOTSIZE": "125"
+    },
+    {
+      "UNDERLYING": "BALKRISHNAIND.LTD",
+      "SYMBOL": "BALKRISIND",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "BALRAMPURCHINIMILLSLTD",
+      "SYMBOL": "BALRAMCHIN",
+      "LOTSIZE": "1600"
+    },
+    {
+      "UNDERLYING": "BANDHANBANKLIMITED",
+      "SYMBOL": "BANDHANBNK",
+      "LOTSIZE": "2500"
+    },
+    {
+      "UNDERLYING": "BANKOFBARODA",
+      "SYMBOL": "BANKBARODA",
+      "LOTSIZE": "2925"
+    },
+    {
+      "UNDERLYING": "BERGERPAINTS(I)LTD",
+      "SYMBOL": "BERGEPAINT",
+      "LOTSIZE": "1320"
+    },
+    {
+      "UNDERLYING": "BHARATPETROLEUMCORPLT",
+      "SYMBOL": "BPCL",
+      "LOTSIZE": "1800"
+    },
+    {
+      "UNDERLYING": "BHARATFORGELTD",
+      "SYMBOL": "BHARATFORG",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "BIOCONLIMITED.",
+      "SYMBOL": "BIOCON",
+      "LOTSIZE": "2500"
+    },
+    {
+      "UNDERLYING": "BRITANNIAINDUSTRIESLTD",
+      "SYMBOL": "BRITANNIA",
+      "LOTSIZE": "200"
+    },
+    {
+      "UNDERLYING": "ABBOTTINDIALIMITED",
+      "SYMBOL": "ABBOTINDIA",
+      "LOTSIZE": "40"
+    },
+    {
+      "UNDERLYING": "ADITYABIRLAFASHION&RT",
+      "SYMBOL": "ABFRL",
+      "LOTSIZE": "2600"
+    },
+    {
+      "UNDERLYING": "ADANIENTERPRISESLIMITED",
+      "SYMBOL": "ADANIENT",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "COROMANDELINTERNTL.LTD",
+      "SYMBOL": "COROMANDEL",
+      "LOTSIZE": "700"
+    },
+    {
+      "UNDERLYING": "ADANIPORT&SEZLTD",
+      "SYMBOL": "ADANIPORTS",
+      "LOTSIZE": "800"
+    },
+    {
+      "UNDERLYING": "BOSCHLIMITED",
+      "SYMBOL": "BOSCHLTD",
+      "LOTSIZE": "50"
+    },
+    {
+      "UNDERLYING": "DEEPAKNITRITELTD",
+      "SYMBOL": "DEEPAKNTR",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "DIXONTECHNO(INDIA)LTD",
+      "SYMBOL": "DIXON",
+      "LOTSIZE": "100"
+    },
+    {
+      "UNDERLYING": "EICHERMOTORSLTD",
+      "SYMBOL": "EICHERMOT",
+      "LOTSIZE": "175"
+    },
+    {
+      "UNDERLYING": "EXIDEINDUSTRIESLTD",
+      "SYMBOL": "EXIDEIND",
+      "LOTSIZE": "3600"
+    },
+    {
+      "UNDERLYING": "AUSMALLFINANCEBANKLTD",
+      "SYMBOL": "AUBANK",
+      "LOTSIZE": "1000"
+    },
+    {
+      "UNDERLYING": "BIRLASOFTLIMITED",
+      "SYMBOL": "BSOFT",
+      "LOTSIZE": "1000"
+    },
+    {
+      "UNDERLYING": "CANARABANK",
+      "SYMBOL": "CANBK",
+      "LOTSIZE": "2700"
+    },
+    {
+      "UNDERLYING": "CANFINHOMESLTD",
+      "SYMBOL": "CANFINHOME",
+      "LOTSIZE": "975"
+    },
+    {
+      "UNDERLYING": "CHAMBALFERTILIZERSLTD",
+      "SYMBOL": "CHAMBLFERT",
+      "LOTSIZE": "1900"
+    },
+    {
+      "UNDERLYING": "COALINDIALTD",
+      "SYMBOL": "COALINDIA",
+      "LOTSIZE": "2100"
+    },
+    {
+      "UNDERLYING": "COFORGELIMITED",
+      "SYMBOL": "COFORGE",
+      "LOTSIZE": "150"
+    },
+    {
+      "UNDERLYING": "COLGATEPALMOLIVELTD.",
+      "SYMBOL": "COLPAL",
+      "LOTSIZE": "350"
+    },
+    {
+      "UNDERLYING": "GMRAIRPORTSINFRALTD",
+      "SYMBOL": "GMRINFRA",
+      "LOTSIZE": "11250"
+    },
+    {
+      "UNDERLYING": "CONTAINERCORPOFINDLTD",
+      "SYMBOL": "CONCOR",
+      "LOTSIZE": "1000"
+    },
+    {
+      "UNDERLYING": "CROMPTGREACONELECLTD",
+      "SYMBOL": "CROMPTON",
+      "LOTSIZE": "1800"
+    },
+    {
+      "UNDERLYING": "ESCORTSKUBOTALIMITED",
+      "SYMBOL": "ESCORTS",
+      "LOTSIZE": "275"
+    },
+    {
+      "UNDERLYING": "GODREJCONSUMERPRODUCTS",
+      "SYMBOL": "GODREJCP",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "GUJNARVALFER&CHEML",
+      "SYMBOL": "GNFC",
+      "LOTSIZE": "1300"
+    },
+    {
+      "UNDERLYING": "GRANULESINDIALIMITED",
+      "SYMBOL": "GRANULES",
+      "LOTSIZE": "2000"
+    },
+    {
+      "UNDERLYING": "GRASIMINDUSTRIESLTD",
+      "SYMBOL": "GRASIM",
+      "LOTSIZE": "477"
+    },
+    {
+      "UNDERLYING": "DALMIABHARATLIMITED",
+      "SYMBOL": "DALBHARAT",
+      "LOTSIZE": "250"
+    },
+    {
+      "UNDERLYING": "HINDUSTANAERONAUTICSLTD",
+      "SYMBOL": "HAL",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "HDFCAMCLIMITED",
+      "SYMBOL": "HDFCAMC",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "GUJARATGASLIMITED",
+      "SYMBOL": "GUJGASLTD",
+      "LOTSIZE": "1250"
+    },
+    {
+      "UNDERLYING": "HEROMOTOCORPLIMITED",
+      "SYMBOL": "HEROMOTOCO",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "DELTACORPLIMITED",
+      "SYMBOL": "DELTACORP",
+      "LOTSIZE": "3000"
+    },
+    {
+      "UNDERLYING": "HINDUSTANPETROLEUMCORP",
+      "SYMBOL": "HINDPETRO",
+      "LOTSIZE": "2700"
+    },
+    {
+      "UNDERLYING": "HINDUSTANUNILEVERLTD.",
+      "SYMBOL": "HINDUNILVR",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "ICICILOMBARDGICLIMITED",
+      "SYMBOL": "ICICIGI",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "ICICIBANKLTD.",
+      "SYMBOL": "ICICIBANK",
+      "LOTSIZE": "700"
+    },
+    {
+      "UNDERLYING": "ICICIPRULIFEINSCOLTD",
+      "SYMBOL": "ICICIPRULI",
+      "LOTSIZE": "1500"
+    },
+    {
+      "UNDERLYING": "INDIANENERGYEXCLTD",
+      "SYMBOL": "IEX",
+      "LOTSIZE": "3750"
+    },
+    {
+      "UNDERLYING": "INDRAPRASTHAGASLTD",
+      "SYMBOL": "IGL",
+      "LOTSIZE": "1375"
+    },
+    {
+      "UNDERLYING": "FEDERALBANKLTD",
+      "SYMBOL": "FEDERALBNK",
+      "LOTSIZE": "5000"
+    },
+    {
+      "UNDERLYING": "INDIAMARTINTERMESHLTD",
+      "SYMBOL": "INDIAMART",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "GAIL(INDIA)LTD",
+      "SYMBOL": "GAIL",
+      "LOTSIZE": "4575"
+    },
+    {
+      "UNDERLYING": "GLENMARKPHARMACEUTICALS",
+      "SYMBOL": "GLENMARK",
+      "LOTSIZE": "725"
+    },
+    {
+      "UNDERLYING": "INDIANOILCORPLTD",
+      "SYMBOL": "IOC",
+      "LOTSIZE": "9750"
+    },
+    {
+      "UNDERLYING": "IPCALABORATORIESLTD",
+      "SYMBOL": "IPCALAB",
+      "LOTSIZE": "650"
+    },
+    {
+      "UNDERLYING": "HAVELLSINDIALIMITED",
+      "SYMBOL": "HAVELLS",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "JINDALSTEEL&POWERLTD",
+      "SYMBOL": "JINDALSTEL",
+      "LOTSIZE": "1250"
+    },
+    {
+      "UNDERLYING": "HDFCLIFEINSCOLTD",
+      "SYMBOL": "HDFCLIFE",
+      "LOTSIZE": "1100"
+    },
+    {
+      "UNDERLYING": "JKCEMENTLIMITED",
+      "SYMBOL": "JKCEMENT",
+      "LOTSIZE": "250"
+    },
+    {
+      "UNDERLYING": "INDIANRAILTOURCORPLTD",
+      "SYMBOL": "IRCTC",
+      "LOTSIZE": "875"
+    },
+    {
+      "UNDERLYING": "HINDUSTANCOPPERLTD",
+      "SYMBOL": "HINDCOPPER",
+      "LOTSIZE": "5300"
+    },
+    {
+      "UNDERLYING": "JUBILANTFOODWORKSLTD",
+      "SYMBOL": "JUBLFOOD",
+      "LOTSIZE": "1250"
+    },
+    {
+      "UNDERLYING": "L&TFINANCEHOLDINGSLTD",
+      "SYMBOL": "L&TFH",
+      "LOTSIZE": "4462"
+    },
+    {
+      "UNDERLYING": "IDFCLIMITED",
+      "SYMBOL": "IDFC",
+      "LOTSIZE": "5000"
+    },
+    {
+      "UNDERLYING": "IDFCFIRSTBANKLIMITED",
+      "SYMBOL": "IDFCFIRSTB",
+      "LOTSIZE": "7500"
+    },
+    {
+      "UNDERLYING": "THEINDIACEMENTSLIMITED",
+      "SYMBOL": "INDIACEM",
+      "LOTSIZE": "2900"
+    },
+    {
+      "UNDERLYING": "LICHOUSINGFINANCELTD",
+      "SYMBOL": "LICHSGFIN",
+      "LOTSIZE": "2000"
+    },
+    {
+      "UNDERLYING": "LAURUSLABSLIMITED",
+      "SYMBOL": "LAURUSLABS",
+      "LOTSIZE": "1700"
+    },
+    {
+      "UNDERLYING": "INTERGLOBEAVIATIONLTD",
+      "SYMBOL": "INDIGO",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "INFOSYSLIMITED",
+      "SYMBOL": "INFY",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "LTIMINDTREELIMITED",
+      "SYMBOL": "LTIM",
+      "LOTSIZE": "150"
+    },
+    {
+      "UNDERLYING": "L&TTECHNOLOGYSER.LTD.",
+      "SYMBOL": "LTTS",
+      "LOTSIZE": "200"
+    },
+    {
+      "UNDERLYING": "LARSEN&TOUBROLTD.",
+      "SYMBOL": "LT",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "ITCLTD",
+      "SYMBOL": "ITC",
+      "LOTSIZE": "1600"
+    },
+    {
+      "UNDERLYING": "LUPINLIMITED",
+      "SYMBOL": "LUPIN",
+      "LOTSIZE": "850"
+    },
+    {
+      "UNDERLYING": "UNITEDSPIRITSLIMITED",
+      "SYMBOL": "MCDOWELL-N",
+      "LOTSIZE": "700"
+    },
+    {
+      "UNDERLYING": "MARICOLIMITED",
+      "SYMBOL": "MARICO",
+      "LOTSIZE": "1200"
+    },
+    {
+      "UNDERLYING": "JSWSTEELLIMITED",
+      "SYMBOL": "JSWSTEEL",
+      "LOTSIZE": "675"
+    },
+    {
+      "UNDERLYING": "MULTICOMMODITYEXCHANGE",
+      "SYMBOL": "MCX",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "KOTAKMAHINDRABANKLTD",
+      "SYMBOL": "KOTAKBANK",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "METROPOLISHEALTHCARELTD",
+      "SYMBOL": "METROPOLIS",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "DR.LALPATHLABSLTD.",
+      "SYMBOL": "LALPATHLAB",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "MAHANAGARGASLTD.",
+      "SYMBOL": "MGL",
+      "LOTSIZE": "800"
+    },
+    {
+      "UNDERLYING": "SAMVRDHNAMTHRSNINTLLTD",
+      "SYMBOL": "MOTHERSON",
+      "LOTSIZE": "7100"
+    },
+    {
+      "UNDERLYING": "MPHASISLIMITED",
+      "SYMBOL": "MPHASIS",
+      "LOTSIZE": "275"
+    },
+    {
+      "UNDERLYING": "NATIONALALUMINIUMCOLTD",
+      "SYMBOL": "NATIONALUM",
+      "LOTSIZE": "7500"
+    },
+    {
+      "UNDERLYING": "NAVINFLUORINEINT.LTD",
+      "SYMBOL": "NAVINFLUOR",
+      "LOTSIZE": "150"
+    },
+    {
+      "UNDERLYING": "NMDCLTD.",
+      "SYMBOL": "NMDC",
+      "LOTSIZE": "4500"
+    },
+    {
+      "UNDERLYING": "NTPCLTD",
+      "SYMBOL": "NTPC",
+      "LOTSIZE": "3000"
+    },
+    {
+      "UNDERLYING": "MRFLTD",
+      "SYMBOL": "MRF",
+      "LOTSIZE": "5"
+    },
+    {
+      "UNDERLYING": "OILANDNATURALGASCORP.",
+      "SYMBOL": "ONGC",
+      "LOTSIZE": "3850"
+    },
+    {
+      "UNDERLYING": "MUTHOOTFINANCELIMITED",
+      "SYMBOL": "MUTHOOTFIN",
+      "LOTSIZE": "550"
+    },
+    {
+      "UNDERLYING": "MAHINDRA&MAHINDRALTD",
+      "SYMBOL": "M&M",
+      "LOTSIZE": "350"
+    },
+    {
+      "UNDERLYING": "PERSISTENTSYSTEMSLTD",
+      "SYMBOL": "PERSISTENT",
+      "LOTSIZE": "100"
+    },
+    {
+      "UNDERLYING": "MANAPPURAMFINANCELTD",
+      "SYMBOL": "MANAPPURAM",
+      "LOTSIZE": "6000"
+    },
+    {
+      "UNDERLYING": "PETRONETLNGLIMITED",
+      "SYMBOL": "PETRONET",
+      "LOTSIZE": "3000"
+    },
+    {
+      "UNDERLYING": "POWERFINCORPLTD.",
+      "SYMBOL": "PFC",
+      "LOTSIZE": "3875"
+    },
+    {
+      "UNDERLYING": "NESTLEINDIALIMITED",
+      "SYMBOL": "NESTLEIND",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "PIDILITEINDUSTRIESLTD",
+      "SYMBOL": "PIDILITIND",
+      "LOTSIZE": "250"
+    },
+    {
+      "UNDERLYING": "INFOEDGE(I)LTD",
+      "SYMBOL": "NAUKRI",
+      "LOTSIZE": "150"
+    },
+    {
+      "UNDERLYING": "PIINDUSTRIESLTD",
+      "SYMBOL": "PIIND",
+      "LOTSIZE": "250"
+    },
+    {
+      "UNDERLYING": "PUNJABNATIONALBANK",
+      "SYMBOL": "PNB",
+      "LOTSIZE": "8000"
+    },
+    {
+      "UNDERLYING": "RBLBANKLIMITED",
+      "SYMBOL": "RBLBANK",
+      "LOTSIZE": "2500"
+    },
+    {
+      "UNDERLYING": "OBEROIREALTYLIMITED",
+      "SYMBOL": "OBEROIRLTY",
+      "LOTSIZE": "700"
+    },
+    {
+      "UNDERLYING": "POWERGRIDCORP.LTD.",
+      "SYMBOL": "POWERGRID",
+      "LOTSIZE": "3600"
+    },
+    {
+      "UNDERLYING": "ORACLEFINSERVSOFTLTD.",
+      "SYMBOL": "OFSS",
+      "LOTSIZE": "200"
+    },
+    {
+      "UNDERLYING": "PAGEINDUSTRIESLTD",
+      "SYMBOL": "PAGEIND",
+      "LOTSIZE": "15"
+    },
+    {
+      "UNDERLYING": "STEELAUTHORITYOFINDIA",
+      "SYMBOL": "SAIL",
+      "LOTSIZE": "8000"
+    },
+    {
+      "UNDERLYING": "RECLIMITED",
+      "SYMBOL": "RECLTD",
+      "LOTSIZE": "2000"
+    },
+    {
+      "UNDERLYING": "SHREECEMENTLIMITED",
+      "SYMBOL": "SHREECEM",
+      "LOTSIZE": "25"
+    },
+    {
+      "UNDERLYING": "SBICARDS&PAYSERLTD",
+      "SYMBOL": "SBICARD",
+      "LOTSIZE": "800"
+    },
+    {
+      "UNDERLYING": "BHEL",
+      "SYMBOL": "BHEL",
+      "LOTSIZE": "5250"
+    },
+    {
+      "UNDERLYING": "TATACONSUMERPRODUCTLTD",
+      "SYMBOL": "TATACONSUM",
+      "LOTSIZE": "900"
+    },
+    {
+      "UNDERLYING": "TATAMOTORSLIMITED",
+      "SYMBOL": "TATAMOTORS",
+      "LOTSIZE": "1425"
+    },
+    {
+      "UNDERLYING": "SBILIFEINSURANCECOLTD",
+      "SYMBOL": "SBILIFE",
+      "LOTSIZE": "750"
+    },
+    {
+      "UNDERLYING": "CIPLALTD",
+      "SYMBOL": "CIPLA",
+      "LOTSIZE": "650"
+    },
+    {
+      "UNDERLYING": "CITYUNIONBANKLTD",
+      "SYMBOL": "CUB",
+      "LOTSIZE": "5000"
+    },
+    {
+      "UNDERLYING": "STATEBANKOFINDIA",
+      "SYMBOL": "SBIN",
+      "LOTSIZE": "1500"
+    },
+    {
+      "UNDERLYING": "PVRINOXLIMITED",
+      "SYMBOL": "PVRINOX",
+      "LOTSIZE": "407"
+    },
+    {
+      "UNDERLYING": "THERAMCOCEMENTSLIMITED",
+      "SYMBOL": "RAMCOCEM",
+      "LOTSIZE": "850"
+    },
+    {
+      "UNDERLYING": "TATASTEELLIMITED",
+      "SYMBOL": "TATASTEEL",
+      "LOTSIZE": "5500"
+    },
+    {
+      "UNDERLYING": "SHRIRAMFINANCELIMITED",
+      "SYMBOL": "SHRIRAMFIN",
+      "LOTSIZE": "300"
+    },
+    {
+      "UNDERLYING": "TORRENTPHARMACEUTICALSL",
+      "SYMBOL": "TORNTPHARM",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "SIEMENSLTD",
+      "SYMBOL": "SIEMENS",
+      "LOTSIZE": "150"
+    },
+    {
+      "UNDERLYING": "SRFLTD",
+      "SYMBOL": "SRF",
+      "LOTSIZE": "375"
+    },
+    {
+      "UNDERLYING": "TRENTLTD",
+      "SYMBOL": "TRENT",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "SUNPHARMACEUTICALINDL",
+      "SYMBOL": "SUNPHARMA",
+      "LOTSIZE": "700"
+    },
+    {
+      "UNDERLYING": "AUROBINDOPHARMALTD",
+      "SYMBOL": "AUROPHARMA",
+      "LOTSIZE": "1100"
+    },
+    {
+      "UNDERLYING": "TVSMOTORCOMPANYLTD",
+      "SYMBOL": "TVSMOTOR",
+      "LOTSIZE": "350"
+    },
+    {
+      "UNDERLYING": "UNITEDBREWERIESLTD",
+      "SYMBOL": "UBL",
+      "LOTSIZE": "400"
+    },
+    {
+      "UNDERLYING": "ULTRATECHCEMENTLIMITED",
+      "SYMBOL": "ULTRACEMCO",
+      "LOTSIZE": "100"
+    },
+    {
+      "UNDERLYING": "TATAPOWERCOLTD",
+      "SYMBOL": "TATAPOWER",
+      "LOTSIZE": "3375"
+    },
+    {
+      "UNDERLYING": "TITANCOMPANYLIMITED",
+      "SYMBOL": "TITAN",
+      "LOTSIZE": "175"
+    },
+    {
+      "UNDERLYING": "VEDANTALIMITED",
+      "SYMBOL": "VEDL",
+      "LOTSIZE": "2300"
+    },
+    {
+      "UNDERLYING": "VOLTASLTD",
+      "SYMBOL": "VOLTAS",
+      "LOTSIZE": "600"
+    },
+    {
+      "UNDERLYING": "TATACOMMUNICATIONSLTD",
+      "SYMBOL": "TATACOMM",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "TATACONSULTANCYSERVLT",
+      "SYMBOL": "TCS",
+      "LOTSIZE": "175"
+    },
+    {
+      "UNDERLYING": "UPLLIMITED",
+      "SYMBOL": "UPL",
+      "LOTSIZE": "1300"
+    },
+    {
+      "UNDERLYING": "WIPROLTD",
+      "SYMBOL": "WIPRO",
+      "LOTSIZE": "1500"
+    },
+    {
+      "UNDERLYING": "ZEEENTERTAINMENTENTLTD",
+      "SYMBOL": "ZEEL",
+      "LOTSIZE": "3000"
+    },
+    {
+      "UNDERLYING": "HCLTECHNOLOGIESLTD",
+      "SYMBOL": "HCLTECH",
+      "LOTSIZE": "700"
+    },
+    {
+      "UNDERLYING": "CHOLAMANDALAMIN&FINCO",
+      "SYMBOL": "CHOLAFIN",
+      "LOTSIZE": "625"
+    },
+    {
+      "UNDERLYING": "BHARTIAIRTELLIMITED",
+      "SYMBOL": "BHARTIARTL",
+      "LOTSIZE": "950"
+    },
+    {
+      "UNDERLYING": "DABURINDIALTD",
+      "SYMBOL": "DABUR",
+      "LOTSIZE": "1250"
+    },
+    {
+      "UNDERLYING": "DLFLIMITED",
+      "SYMBOL": "DLF",
+      "LOTSIZE": "1650"
+    },
+    {
+      "UNDERLYING": "HDFCBANKLTD",
+      "SYMBOL": "HDFCBANK",
+      "LOTSIZE": "550"
+    },
+    {
+      "UNDERLYING": "HINDALCOINDUSTRIESLTD",
+      "SYMBOL": "HINDALCO",
+      "LOTSIZE": "1400"
+    },
+    {
+      "UNDERLYING": "MARUTISUZUKIINDIALTD.",
+      "SYMBOL": "MARUTI",
+      "LOTSIZE": "50"
+    },
+    {
+      "UNDERLYING": "INDUSINDBANKLIMITED",
+      "SYMBOL": "INDUSINDBK",
+      "LOTSIZE": "500"
+    },
+    {
+      "UNDERLYING": "BATAINDIALTD",
+      "SYMBOL": "BATAINDIA",
+      "LOTSIZE": "375"
+    },
+    {
+      "UNDERLYING": "TATACHEMICALSLTD",
+      "SYMBOL": "TATACHEM",
+      "LOTSIZE": "550"
+    },
+    {
+      "UNDERLYING": "ABBINDIALIMITED",
+      "SYMBOL": "ABB",
+      "LOTSIZE": "125"
+    },
+    {
+      "UNDERLYING": "DIVISLABORATORIESLTD",
+      "SYMBOL": "DIVISLAB",
+      "LOTSIZE": "200"
+    },
+    {
+      "UNDERLYING": "MAXFINANCIALSERVLTD",
+      "SYMBOL": "MFSL",
+      "LOTSIZE": "800"
+    },
+    {
+      "UNDERLYING": "POLYCABINDIALIMITED",
+      "SYMBOL": "POLYCAB",
+      "LOTSIZE": "100"
+    },
+    {
+      "UNDERLYING": "M&MFIN.SERVICESLTD",
+      "SYMBOL": "M&MFIN",
+      "LOTSIZE": "2000"
+    },
+    {
+      "UNDERLYING": "PIRAMALENTERPRISESLTD",
+      "SYMBOL": "PEL",
+      "LOTSIZE": "750"
+    },
+    {
+      "UNDERLYING": "SUNTVNETWORKLIMITED",
+      "SYMBOL": "SUNTV",
+      "LOTSIZE": "1500"
+    },
+    {
+      "UNDERLYING": "TECHMAHINDRALIMITED",
+      "SYMBOL": "TECHM",
+      "LOTSIZE": "600"
+    },
+    {
+      "UNDERLYING": "SYNGENEINTERNATIONALLTD",
+      "SYMBOL": "SYNGENE",
+      "LOTSIZE": "1000"
+    }
+  ]
